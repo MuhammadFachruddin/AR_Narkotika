@@ -1,6 +1,6 @@
 # AR_Narkotika
 Halaman Awal
-![Frame 20](https://github.com/MuhammadFachruddin/AR_Narkotika/assets/123525071/8a48d43e-a08a-4440-991c-12bc5013ac52)
+<img src="![Frame 20](https://github.com/MuhammadFachruddin/AR_Narkotika/assets/123525071/8a48d43e-a08a-4440-991c-12bc5013ac52)" width="250" height="250" />
 Halaman Utama
 ![Group 79](https://github.com/MuhammadFachruddin/AR_Narkotika/assets/123525071/be60dccc-4bcb-4c41-9575-f79adc1764f3)
 Halaman Tentang
